@@ -9,4 +9,3 @@
     * [Max multiple](https://github.com/juliosimiao/CodeFights/blob/master/Arcade/The%20Core/Intro%20Gates/MaxMultiple.java)
     * [Circle of Numbers](https://github.com/juliosimiao/CodeFights/blob/master/Arcade/The%20Core/Intro%20Gates/CircleOfNumbers.java)
     * [Phone Call](https://github.com/juliosimiao/CodeFights/blob/master/Arcade/The%20Core/Intro%20Gates/PhoneCall.java)
-  * [At the Crossroads]
