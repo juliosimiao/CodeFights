@@ -4,3 +4,4 @@
   * [Intro Gates](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Intro%20Gates)
   * [At the Crossroads](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/At%20the%20Crossroads)
   * [Corner of 0s and 1s](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Corner%20of%200s%20and%201s)
+  * [Loop Tunnel](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Loop%20Tunnel)
