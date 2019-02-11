@@ -7,4 +7,7 @@
   * [Loop Tunnel](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Loop%20Tunnel)
   * [List Forest Edge](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/List%20Forest%20Edge)
   * [Labyrinth of Nested Loops](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Labyrinth%20of%20Nested%20Loops)
+<<<<<<< HEAD
   * [Book Market](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Book%20Market)
+=======
+>>>>>>> 90d8c0f99c1484466fa0a54042de6628caefaa54
