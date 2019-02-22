@@ -9,3 +9,4 @@
   * [Labyrinth of Nested Loops](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Labyrinth%20of%20Nested%20Loops)
   * [Book Market](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Book%20Market)
   * [Well of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Well%20of%20Integration)
+  * [Lab of Transformations](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Lab%20of%Transformations)
