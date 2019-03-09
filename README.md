@@ -15,3 +15,6 @@
   * [Waterfall of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Waterfall%20of%20Integration)
   * [Sorting Outpost](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Sorting%20Outpost)
   * [Time River](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Time%20River)
+
+* [Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python)
+  * [Meet Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python/Meet%20Python)
