@@ -15,6 +15,14 @@
   * [Waterfall of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Waterfall%20of%20Integration)
   * [Sorting Outpost](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Sorting%20Outpost)
   * [Time River](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Time%20River)
+  * [Secret Archives](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Secret%Archives))
 
 * [Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python)
   * [Meet Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python/Meet%20Python)
+  * [Slithering in Strings](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python/Slithering%20in%20Strings)
+  * [Lurking in Lists](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python/Lurking%20in%Lists)
+  * [Lambda Illusions]https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python/Lambda%Illusions)
+
+# Interview practice solutions
+
+* [Array](https://github.com/juliosimiao/CodeFights/tree/master/Interview%20practice/Array)
