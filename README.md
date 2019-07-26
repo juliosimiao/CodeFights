@@ -8,6 +8,7 @@
   * [List Forest Edge](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/List%20Forest%20Edge)
   * [Labyrinth of Nested Loops](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Labyrinth%20of%20Nested%20Loops)
   * [Book Market](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Book%20Market)
+  * [Mirror Lake](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Mirror%Lake)
   * [Well of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Well%20of%20Integration)
   * [Lab of Transformations](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Lab%20of%20Transformations)
   * [Spring of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Spring%20of%20Integration)
@@ -15,6 +16,7 @@
   * [Waterfall of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Waterfall%20of%20Integration)
   * [Sorting Outpost](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Sorting%20Outpost)
   * [Time River](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Time%20River)
+  * [Regular Hell](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Regular%Hell)
   * [Secret Archives](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Secret%20Archives)
 
 * [Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python)
