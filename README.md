@@ -16,7 +16,7 @@
   * [Waterfall of Integration](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Waterfall%20of%20Integration)
   * [Sorting Outpost](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Sorting%20Outpost)
   * [Time River](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Time%20River)
-  * [Regular Hell](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Regular%Hell)
+  * [Regular Hell](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Regular%20Hell)
   * [Secret Archives](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/The%20Core/Secret%20Archives)
 
 * [Python](https://github.com/juliosimiao/CodeFights/tree/master/Arcade/Python)
