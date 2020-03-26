@@ -7,7 +7,7 @@ boolean pairOfShoes(int[][] shoes) {
         String otherSide = getOtherSide(shoes[i][0],shoes[i][1]);
         if(mapShoes.indexOf(otherSide) == -1){
             mapShoes.add(sideSize);
-        }else {System.out.println("removi");
+        }else {
             mapShoes.remove(otherSide);
         }     
     }  
