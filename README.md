@@ -32,3 +32,8 @@
 # Company Challenges
 
 * [Autodesk Asia](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/Autodesk%20Asia)
+* [SpaceX](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/SpaceX)
+* [Thumbtack](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/Thumbtack)
+* [CodeSignal](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/CodeSignal)
+* [Dropbox](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/Dropbox)
+* [GoDaddy](https://github.com/juliosimiao/CodeFights/tree/master/Company%20Challenges/GoDaddy)
